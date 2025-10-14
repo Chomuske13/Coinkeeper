@@ -10,7 +10,7 @@
 ## 1. Вход в учётную запись
 
 
-![Диаграмма активности: Вход в учётную запись](docs/mockups/activity.png)
+![Диаграмма активности: Вход в учётную запись]([docs/mockups/activity.png](https://github.com/Chomuske13/Coinkeeper/blob/1184ade63ca62b344062dece0f0afccbeffe6cc5/docs/mockups/activity.png))
 
 ---
 
