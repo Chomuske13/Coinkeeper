@@ -7,21 +7,21 @@
 
 ---
 
-## 1. Вход в учётную запись
+## 1. Экспорт данных
 
 
-![Диаграмма активности: Вход в учётную запись](https://github.com/Chomuske13/Coinkeeper/blob/1184ade63ca62b344062dece0f0afccbeffe6cc5/docs/mockups/activity.png)
+![Диаграмма активности: Вход в учётную запись](https://github.com/Chomuske13/Coinkeeper/blob/a979574cc3bc710a68b00a064b80330c5bc56aea/docs/mockups/activity2.png)
 
 ---
 
 ## 2. Добавление финансовой операции
 
 
-![Диаграмма активности: Добавление финансовой операции](https://github.com/ваш-логин/ваш-репозиторий/assets/035329cd-d311-428e-99e5-f7c5b4bd3074)
+![Диаграмма активности: Добавление финансовой операции](https://github.com/Chomuske13/Coinkeeper/blob/1184ade63ca62b344062dece0f0afccbeffe6cc5/docs/mockups/activity.png)
 
 ---
 
 ## 3. Просмотр статистики
 
 
-![Диаграмма активности: Просмотр статистики](https://github.com/ваш-логин/ваш-репозиторий/assets/d218dac5-645a-41e8-b40d-dffa1097b972)
+![Диаграмма активности: Просмотр статистики](https://github.com/Chomuske13/Coinkeeper/blob/a979574cc3bc710a68b00a064b80330c5bc56aea/docs/mockups/activity3.png)
