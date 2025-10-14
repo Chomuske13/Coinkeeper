@@ -1,4 +1,4 @@
-# Диаграмма классов
+# Диаграмма вариантов использования
 ![Диаграмма активности: Вход в учётную запись](https://github.com/Chomuske13/Coinkeeper/blob/3e1ad06e21e5abfd1b0e09c15fe837a2183ecc07/docs/mockups/ispol.png)
 
 # Диаграмма вариантов использования: CoinKeeper
